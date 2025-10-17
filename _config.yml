@@ -22,8 +22,8 @@ title: Morloi's Digital Dungeon
 email: morloil@morloi.org
 description: >- # this means to ignore newlines until "baseurl:"
   Mi occupo da troppo tempo di informatica, cultura digitale, internet e comunicazione. L’ho fatto spesso nel modo sbagliato, ma sbagliando si impara. Continuo a occuparmi di digitale, formazione e comunicazione, tentando di sbagliare meno.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://morloi.org" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
