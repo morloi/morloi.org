@@ -4,7 +4,7 @@ title: Morloi's Digital Dungeon
 ---
 Sono **Alessandro *Morloi* Grazioli**. 
 Mi occupo da troppo tempo di **informatica, cultura digitale, internet e comunicazione**.
-L'ho fatto spesso nel modo sbagliato, ma sbagliando si impara. Continuo a occuparmi di digitale, formazione e comunicazione, tentando di sbagliare meno. Qui sotto trovate alcuni appunti, se vi piacciono, parliamone, mi trovate nel Fediverso [qui](https://livellosegreto.it/@morloi), oppure scrivendo a *morloi\[at\]morloi.org.
+L'ho fatto spesso nel modo sbagliato, ma sbagliando si impara. Continuo a occuparmi di digitale, formazione e comunicazione, tentando di sbagliare meno. Qui sotto trovate alcuni appunti, se vi piacciono, parliamone, mi trovate nel Fediverso [qui](https://livellosegreto.it/@morloi), oppure scrivendo a *morloi\[at\]morloi.org*.
 
 Ho contribuito a fondare il collettivo [Socialini](https://www.socialini.it/), cosa di cui vado molto fiero.
 
