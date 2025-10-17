@@ -90,7 +90,7 @@ defaults:
 
 # baseurl: ""
 permalink: /blog/:slug
-timezone: America/New_York
+timezone: Europe/Rome
 future: false
 
 exclude:
