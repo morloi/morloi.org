@@ -51,7 +51,8 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-
+favicon:
+  source: favicon.png
 
 plugins:
   - jekyll-redirect-from
