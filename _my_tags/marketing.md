@@ -1,4 +1,4 @@
 ---
-slug: Marketing
+slug: marketing
 name: Marketing
 ---

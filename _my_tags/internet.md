@@ -1,4 +1,4 @@
 ---
-slug: Internet
+slug: internet
 name: Internet
 ---
