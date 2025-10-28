@@ -1,4 +1,4 @@
 ---
 slug: marketing
-name: Marketing
+name: marketing
 ---

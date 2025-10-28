@@ -1,4 +1,4 @@
 ---
 slug: internet
-name: Internet
+name: internet
 ---

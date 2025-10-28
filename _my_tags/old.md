@@ -1,4 +1,4 @@
 ---
 slug: oldbutgold
-name: OldButGold
+name: oldbutgold
 ---
