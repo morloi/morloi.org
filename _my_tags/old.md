@@ -1,4 +1,4 @@
 ---
-slug: oldbutgold
+slug: OldButGold
 name: OldButGold
 ---
