@@ -29,8 +29,8 @@ module Jekyll
 
     def render(context)
       %Q[
-<div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" width="560" height="315" src="https://www.youtube.com/embed/#{@video_id}" frameborder="0" allowfullscreen>
+<div class="youtube-video-container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/#{@video_id}" frameborder="0" allowfullscreen>
   </iframe>
 </div>
       ]
